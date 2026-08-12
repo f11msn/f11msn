@@ -2,8 +2,8 @@ Tech Lead with 5+ years of leadership experience and 10 years in backend develop
 
 ### Primary Skills
 
-- **Languages:** Python, Ruby, Go
-- **Frameworks:** FastAPI, LangChain, Rails
+- **Languages:** Ruby, Go, Python
+- **Frameworks:** Rails, FastAPI, LangChain
 - **Leadership:** Team building from scratch, hiring, mentoring
 - **AI adoption:** RAG, NLP pipelines, AI-agent orchestration, human-in-the-loop, quality gates
 
